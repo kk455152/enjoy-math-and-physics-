@@ -1,0 +1,13 @@
+{
+  "static_software_tests_returncode": 0,
+  "static_software_tests_output": "----------------------------------------------------------------------\nRan 15 tests in 0.288s\n\nOK\n",
+  "archive_data_check": {
+    "raw_points_reconstructed_from_archived_tables": 715,
+    "trusted_loader_point_count": 715,
+    "H62_static_zero_query_passed": true,
+    "unvalidated_PC40_query_blocked": true,
+    "native_COMSOL_started": false,
+    "numerical_certification": false
+  },
+  "verified_from_actual_extracted_package": true
+}

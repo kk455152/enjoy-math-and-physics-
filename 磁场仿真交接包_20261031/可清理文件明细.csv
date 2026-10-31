@@ -1,0 +1,86 @@
+﻿类别,相对路径,字节数,MB,清理条件
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/PC40_JA_retained_order_zero_v10/build/FullTransientCarousel.class,48929,0.047,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/PC40_JA_retained_low_order_v10/build/FullTransientCarousel.class,48927,0.047,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/PC40_JA_retained_GP0_aux1_v10/build/FullTransientCarousel.class,48925,0.047,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/PC40_JA_retained_mesh_fully_coupled_v10/build/FullTransientCarousel.class,48764,0.047,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/PC40_JA_retained_ball_mesh_v10/build/FullTransientCarousel.class,48730,0.046,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/native_coupling_JA_v10/ddbf04606bb8cc9499d52ba3/build/FullTransientCarousel.class,47965,0.046,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/PC40_reversible_v10_forced_remesh/build/FullTransientCarousel.class,47931,0.046,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/PC40_JA_remesh_fully_coupled_v10/build/FullTransientCarousel.class,47897,0.046,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/GCr15_reversible_v10_no_remesh/build/FullTransientCarousel.class,47883,0.046,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/hysteresis_compare_v10_GCr15_N4/reversible_bh/build/FullTransientCarousel.class,47871,0.046,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/hysteresis_compare_v10_GCr15_N4/jiles_atherton/build/FullTransientCarousel.class,47852,0.046,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/native_coupling_JA_v10/8e65f528eaf54d0c9457a84f/build/FullTransientCarousel.class,47782,0.046,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/native_coupling_smoke_v1/4eb774f254e320d930b68922/build/FullTransientCarousel.class,46663,0.045,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/PC40_forced_remesh_v3_consistent/build/FullTransientCarousel.class,46602,0.044,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/native_coupling_smoke_v1/21573bf463c6f2bc054bb464/build/FullTransientCarousel.class,46571,0.044,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/PC40_same_case_no_remesh_control_v9/build/FullTransientCarousel.class,46563,0.044,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/PC40_forced_remesh_v2/build/FullTransientCarousel.class,46488,0.044,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/native_coupling_smoke_v1/2f2200edcbb5493d65a9daa7/build/FullTransientCarousel.class,46479,0.044,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/branch_v8_GCr15_annealed_N10/build/FullTransientCarousel.class,46470,0.044,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/branch_v8_GCr15_hardened_N10/build/FullTransientCarousel.class,46470,0.044,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/branch_v8_GCr15_annealed_N4/build/FullTransientCarousel.class,46466,0.044,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/branch_v8_PC40_N10/build/FullTransientCarousel.class,46448,0.044,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/hysteresis_v9_closed_excursion/build/FullTransientCarousel.class,46446,0.044,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/branch_v8_H62_N10/build/FullTransientCarousel.class,46442,0.044,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/hysteresis_v9_rest/build/FullTransientCarousel.class,46422,0.044,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/native_coupling_smoke_v1/bb6f5cc22152b00b55e07e7a/build/FullTransientCarousel.class,46387,0.044,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/H62_zero_tight_initialization_v2/build/FullTransientCarousel.class,46190,0.044,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/H62_zero_tight_initialization_v1/build/FullTransientCarousel.class,46050,0.044,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/PC40_forced_remesh_v1/build/FullTransientCarousel.class,45861,0.044,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/GCr15_BH_segregated_v1/build/FullTransientCarousel.class,45049,0.043,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/H62_zero_motion_segregated_v1/build/FullTransientCarousel.class,44946,0.043,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/probe_features/FullTransientCarousel.class,44943,0.043,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/H62_zero_tight_initialization_v2/export_repair/FullTransientExportFix.class,44514,0.042,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/GCr15_BH_segregated_v1/export_repair/FullTransientExportFix.class,44359,0.042,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/GCr15_BH_initialized_union_v2/build/FullTransientCarousel.class,44191,0.042,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/GCr15_BH_initialized_union_v1/build/FullTransientCarousel.class,43745,0.042,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/GCr15_split_gauge_solve_v1/build/FullTransientCarousel.class,41721,0.04,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/GCr15_stationary_gauge_union_v1/build/FullTransientCarousel.class,41694,0.04,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/GCr15_union_solve_v1/build/FullTransientCarousel.class,38208,0.036,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/GCr15_supported_solve_v3_direct/build/FullTransientCarousel.class,36135,0.034,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/GCr15_supported_solve_v2_direct/build/FullTransientCarousel.class,36083,0.034,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/GCr15_supported_solve_v4_direct/build/FullTransientCarousel.class,35739,0.034,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/GCr15_supported_build_v1/build/FullTransientCarousel.class,34660,0.033,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/GCr15_supported_solve_v1/build/FullTransientCarousel.class,34660,0.033,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/__pycache__/comsol_backend.cpython-312.pyc,23791,0.023,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/__pycache__/compare_transient_runs.cpython-312.pyc,14037,0.013,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/probe_features/InspectFullFeatures.class,4099,0.004,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/probe_features/InspectSolvers.class,3764,0.004,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/__pycache__/run_hysteresis_comparison.cpython-312.pyc,3239,0.003,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/__pycache__/run_mesh_retention_check.cpython-312.pyc,2629,0.003,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/probe_features/InspectJA.class,2443,0.002,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+可再生编译缓存,时变磁场模型/通用瞬态耦合/results/probe_features/RepairExports.class,1457,0.001,确认没有时变求解运行后可删除；保留 .java/.py 源码。
+失败试验的大型 MPH,时变磁场模型/通用瞬态耦合/results/PC40_JA_retained_mesh_fully_coupled_v10/build/FullTransientCarousel_TransientCarousel.mph,71319939,68.016,诊断日志、输入、运行状态和试验源码已收入诊断包；删除后不能打开原失败现场，复现需重新求解。
+失败试验的大型 MPH,时变磁场模型/通用瞬态耦合/results/PC40_JA_retained_ball_mesh_v10/build/FullTransientCarousel_TransientCarousel.mph,68329502,65.164,诊断日志、输入、运行状态和试验源码已收入诊断包；删除后不能打开原失败现场，复现需重新求解。
+失败试验的大型 MPH,时变磁场模型/通用瞬态耦合/results/PC40_JA_retained_GP0_aux1_v10/build/FullTransientCarousel_TransientCarousel.mph,68329098,65.164,诊断日志、输入、运行状态和试验源码已收入诊断包；删除后不能打开原失败现场，复现需重新求解。
+失败试验的大型 MPH,时变磁场模型/通用瞬态耦合/results/PC40_forced_remesh_v2/build/FullTransientCarousel_TransientCarousel.mph,67065001,63.958,诊断日志、输入、运行状态和试验源码已收入诊断包；删除后不能打开原失败现场，复现需重新求解。
+失败试验的大型 MPH,时变磁场模型/通用瞬态耦合/results/PC40_forced_remesh_v3_consistent/build/FullTransientCarousel_TransientCarousel.mph,64117326,61.147,诊断日志、输入、运行状态和试验源码已收入诊断包；删除后不能打开原失败现场，复现需重新求解。
+失败试验的大型 MPH,时变磁场模型/通用瞬态耦合/results/H62_zero_motion_segregated_v1/build/FullTransientCarousel_TransientCarousel.mph,24444866,23.312,诊断日志、输入、运行状态和试验源码已收入诊断包；删除后不能打开原失败现场，复现需重新求解。
+失败试验的大型 MPH,时变磁场模型/通用瞬态耦合/results/H62_zero_motion_segregated_v1/TransientCarousel_H62_solved.mph,24402291,23.272,诊断日志、输入、运行状态和试验源码已收入诊断包；删除后不能打开原失败现场，复现需重新求解。
+失败试验的大型 MPH,时变磁场模型/通用瞬态耦合/results/GCr15_union_solve_v1/build/FullTransientCarousel_TransientCarousel.mph,22971111,21.907,诊断日志、输入、运行状态和试验源码已收入诊断包；删除后不能打开原失败现场，复现需重新求解。
+失败试验的大型 MPH,时变磁场模型/通用瞬态耦合/results/PC40_JA_retained_mesh_fully_coupled_v10/TransientCarousel_PC40_configured.mph,12282771,11.714,诊断日志、输入、运行状态和试验源码已收入诊断包；删除后不能打开原失败现场，复现需重新求解。
+失败试验的大型 MPH,时变磁场模型/通用瞬态耦合/results/PC40_JA_retained_GP0_aux1_v10/TransientCarousel_PC40_configured.mph,12276839,11.708,诊断日志、输入、运行状态和试验源码已收入诊断包；删除后不能打开原失败现场，复现需重新求解。
+失败试验的大型 MPH,时变磁场模型/通用瞬态耦合/results/PC40_JA_retained_ball_mesh_v10/TransientCarousel_PC40_configured.mph,12276800,11.708,诊断日志、输入、运行状态和试验源码已收入诊断包；删除后不能打开原失败现场，复现需重新求解。
+失败试验的大型 MPH,时变磁场模型/通用瞬态耦合/results/PC40_forced_remesh_v1/build/FullTransientCarousel_TransientCarousel.mph,11806609,11.26,诊断日志、输入、运行状态和试验源码已收入诊断包；删除后不能打开原失败现场，复现需重新求解。
+失败试验的大型 MPH,时变磁场模型/通用瞬态耦合/results/GCr15_BH_initialized_union_v2/TransientCarousel_GCr15_hardened_configured.mph,11503546,10.971,诊断日志、输入、运行状态和试验源码已收入诊断包；删除后不能打开原失败现场，复现需重新求解。
+失败试验的大型 MPH,时变磁场模型/通用瞬态耦合/results/PC40_forced_remesh_v1/TransientCarousel_PC40_configured.mph,11499674,10.967,诊断日志、输入、运行状态和试验源码已收入诊断包；删除后不能打开原失败现场，复现需重新求解。
+失败试验的大型 MPH,时变磁场模型/通用瞬态耦合/results/PC40_JA_remesh_fully_coupled_v10/TransientCarousel_PC40_configured.mph,11323688,10.799,诊断日志、输入、运行状态和试验源码已收入诊断包；删除后不能打开原失败现场，复现需重新求解。
+失败试验的大型 MPH,时变磁场模型/通用瞬态耦合/results/PC40_forced_remesh_v3_consistent/TransientCarousel_PC40_configured.mph,11317495,10.793,诊断日志、输入、运行状态和试验源码已收入诊断包；删除后不能打开原失败现场，复现需重新求解。
+失败试验的大型 MPH,时变磁场模型/通用瞬态耦合/results/PC40_forced_remesh_v2/TransientCarousel_PC40_configured.mph,11317389,10.793,诊断日志、输入、运行状态和试验源码已收入诊断包；删除后不能打开原失败现场，复现需重新求解。
+失败试验的大型 MPH,时变磁场模型/通用瞬态耦合/results/GCr15_supported_solve_v3_direct/build/FullTransientCarousel_TransientCarousel.mph,1863528,1.777,诊断日志、输入、运行状态和试验源码已收入诊断包；删除后不能打开原失败现场，复现需重新求解。
+失败试验的大型 MPH,时变磁场模型/通用瞬态耦合/results/GCr15_supported_solve_v2_direct/build/FullTransientCarousel_TransientCarousel.mph,1853541,1.768,诊断日志、输入、运行状态和试验源码已收入诊断包；删除后不能打开原失败现场，复现需重新求解。
+失败试验的大型 MPH,时变磁场模型/通用瞬态耦合/results/GCr15_split_gauge_solve_v1/TransientCarousel_GCr15_hardened_configured.mph,651977,0.622,诊断日志、输入、运行状态和试验源码已收入诊断包；删除后不能打开原失败现场，复现需重新求解。
+失败试验的大型 MPH,时变磁场模型/通用瞬态耦合/results/GCr15_stationary_gauge_union_v1/TransientCarousel_GCr15_hardened_configured.mph,628372,0.599,诊断日志、输入、运行状态和试验源码已收入诊断包；删除后不能打开原失败现场，复现需重新求解。
+失败试验的大型 MPH,时变磁场模型/通用瞬态耦合/results/GCr15_union_solve_v1/TransientCarousel_GCr15_hardened_configured.mph,625521,0.597,诊断日志、输入、运行状态和试验源码已收入诊断包；删除后不能打开原失败现场，复现需重新求解。
+失败试验的大型 MPH,时变磁场模型/通用瞬态耦合/results/GCr15_supported_solve_v2_direct/TransientCarousel_GCr15_hardened_configured.mph,604416,0.576,诊断日志、输入、运行状态和试验源码已收入诊断包；删除后不能打开原失败现场，复现需重新求解。
+失败试验的大型 MPH,时变磁场模型/通用瞬态耦合/results/GCr15_supported_solve_v4_direct/TransientCarousel_GCr15_hardened_configured.mph,604416,0.576,诊断日志、输入、运行状态和试验源码已收入诊断包；删除后不能打开原失败现场，复现需重新求解。
+失败试验的大型 MPH,时变磁场模型/通用瞬态耦合/results/GCr15_supported_solve_v3_direct/TransientCarousel_GCr15_hardened_configured.mph,604413,0.576,诊断日志、输入、运行状态和试验源码已收入诊断包；删除后不能打开原失败现场，复现需重新求解。
+失败试验的大型 MPH,时变磁场模型/通用瞬态耦合/results/GCr15_supported_solve_v1/TransientCarousel_GCr15_hardened_configured.mph,604410,0.576,诊断日志、输入、运行状态和试验源码已收入诊断包；删除后不能打开原失败现场，复现需重新求解。
+失败试验的大型 MPH,时变磁场模型/通用瞬态耦合/results/H62_zero_motion_segregated_v1/TransientCarousel_H62_configured.mph,587056,0.56,诊断日志、输入、运行状态和试验源码已收入诊断包；删除后不能打开原失败现场，复现需重新求解。
+失败试验的大型 MPH,时变磁场模型/通用瞬态耦合/results/H62_zero_tight_initialization_v1/build/FullTransientCarousel_TransientCarousel.mph,574587,0.548,诊断日志、输入、运行状态和试验源码已收入诊断包；删除后不能打开原失败现场，复现需重新求解。
+失败试验的大型 MPH,时变磁场模型/通用瞬态耦合/results/PC40_JA_retained_order_zero_v10/build/FullTransientCarousel_TransientCarousel.mph,510798,0.487,诊断日志、输入、运行状态和试验源码已收入诊断包；删除后不能打开原失败现场，复现需重新求解。
+失败试验的大型 MPH,时变磁场模型/通用瞬态耦合/results/PC40_JA_retained_low_order_v10/build/FullTransientCarousel_TransientCarousel.mph,510610,0.487,诊断日志、输入、运行状态和试验源码已收入诊断包；删除后不能打开原失败现场，复现需重新求解。
+构建/预览/修复产生的中间 MPH,时变磁场模型/通用瞬态耦合/results/GCr15_BH_segregated_v1/export_repair/FullTransientExportFix_reexport.mph,34895402,33.279,不参与正式接口调用；应保留求解结果目录下的正式 *_solved.mph、来源和验证数据。部分文件不是字节重复，删除后需重建。
+构建/预览/修复产生的中间 MPH,时变磁场模型/通用瞬态耦合/results/GCr15_BH_segregated_v1/build/FullTransientCarousel_TransientCarousel.mph,34887353,33.271,不参与正式接口调用；应保留求解结果目录下的正式 *_solved.mph、来源和验证数据。部分文件不是字节重复，删除后需重建。
+构建/预览/修复产生的中间 MPH,时变磁场模型/通用瞬态耦合/results/probe_features/RepairExports_repair.mph,34851363,33.237,不参与正式接口调用；应保留求解结果目录下的正式 *_solved.mph、来源和验证数据。部分文件不是字节重复，删除后需重建。

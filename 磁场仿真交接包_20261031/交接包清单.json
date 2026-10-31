@@ -1,0 +1,37 @@
+{
+  "created_local": "2026-10-31T16:41:11.834229+08:00",
+  "packages": [
+    {
+      "file": "01_动力学接口_源码与数据.zip",
+      "size_bytes": 3547282,
+      "sha256": "2ac2a1dbb01737bc9e81be11041ff6f4320e3882c29b11baf3713e9b915112d9",
+      "file_count": 1888
+    },
+    {
+      "file": "02_COMSOL完整JA主示例.zip",
+      "size_bytes": 60873557,
+      "sha256": "8767656e375f8c0c1ba2650a648100abc4c955046ebbaaad6f4f9a1e8496907d",
+      "file_count": 20
+    },
+    {
+      "file": "03_COMSOL其他材料与布局示例.zip",
+      "size_bytes": 240899323,
+      "sha256": "3d0899b5ce2a2cc1eb76072bf6545bb7add19ed27f1bcd6ad646bf73d7a95021",
+      "file_count": 58
+    },
+    {
+      "file": "04_失败诊断与清理清单.zip",
+      "size_bytes": 329587,
+      "sha256": "21286a216d718d2779c65cc4d3c32ed78a0635ee187bf5e8c27fb2bef0a52b67",
+      "file_count": 196
+    }
+  ],
+  "legacy_files_removed_before_snapshot": true,
+  "live_static_solver_untouched": true,
+  "static_snapshot_utc": "2026-10-31T08:41:11.244631+00:00",
+  "static_force_ready_groups": 2,
+  "static_continuous_ready_groups": 0,
+  "cleanup_candidate_bytes": 633476288,
+  "model_count": 9,
+  "raw_static_samples": 762
+}

@@ -1,0 +1,379 @@
+{
+  "scope": "C:\\Users\\yanya\\Desktop\\数理综合\\时变磁场模型",
+  "deleted_any_original_file": false,
+  "categories": {
+    "compiled_cache": {
+      "name": "可再生编译缓存",
+      "condition": "确认没有时变求解运行后可删除；保留 .java/.py 源码。",
+      "files": [
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/PC40_JA_retained_order_zero_v10/build/FullTransientCarousel.class",
+          "size_bytes": 48929
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/PC40_JA_retained_low_order_v10/build/FullTransientCarousel.class",
+          "size_bytes": 48927
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/PC40_JA_retained_GP0_aux1_v10/build/FullTransientCarousel.class",
+          "size_bytes": 48925
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/PC40_JA_retained_mesh_fully_coupled_v10/build/FullTransientCarousel.class",
+          "size_bytes": 48764
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/PC40_JA_retained_ball_mesh_v10/build/FullTransientCarousel.class",
+          "size_bytes": 48730
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/native_coupling_JA_v10/ddbf04606bb8cc9499d52ba3/build/FullTransientCarousel.class",
+          "size_bytes": 47965
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/PC40_reversible_v10_forced_remesh/build/FullTransientCarousel.class",
+          "size_bytes": 47931
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/PC40_JA_remesh_fully_coupled_v10/build/FullTransientCarousel.class",
+          "size_bytes": 47897
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/GCr15_reversible_v10_no_remesh/build/FullTransientCarousel.class",
+          "size_bytes": 47883
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/hysteresis_compare_v10_GCr15_N4/reversible_bh/build/FullTransientCarousel.class",
+          "size_bytes": 47871
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/hysteresis_compare_v10_GCr15_N4/jiles_atherton/build/FullTransientCarousel.class",
+          "size_bytes": 47852
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/native_coupling_JA_v10/8e65f528eaf54d0c9457a84f/build/FullTransientCarousel.class",
+          "size_bytes": 47782
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/native_coupling_smoke_v1/4eb774f254e320d930b68922/build/FullTransientCarousel.class",
+          "size_bytes": 46663
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/PC40_forced_remesh_v3_consistent/build/FullTransientCarousel.class",
+          "size_bytes": 46602
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/native_coupling_smoke_v1/21573bf463c6f2bc054bb464/build/FullTransientCarousel.class",
+          "size_bytes": 46571
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/PC40_same_case_no_remesh_control_v9/build/FullTransientCarousel.class",
+          "size_bytes": 46563
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/PC40_forced_remesh_v2/build/FullTransientCarousel.class",
+          "size_bytes": 46488
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/native_coupling_smoke_v1/2f2200edcbb5493d65a9daa7/build/FullTransientCarousel.class",
+          "size_bytes": 46479
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/branch_v8_GCr15_annealed_N10/build/FullTransientCarousel.class",
+          "size_bytes": 46470
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/branch_v8_GCr15_hardened_N10/build/FullTransientCarousel.class",
+          "size_bytes": 46470
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/branch_v8_GCr15_annealed_N4/build/FullTransientCarousel.class",
+          "size_bytes": 46466
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/branch_v8_PC40_N10/build/FullTransientCarousel.class",
+          "size_bytes": 46448
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/hysteresis_v9_closed_excursion/build/FullTransientCarousel.class",
+          "size_bytes": 46446
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/branch_v8_H62_N10/build/FullTransientCarousel.class",
+          "size_bytes": 46442
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/hysteresis_v9_rest/build/FullTransientCarousel.class",
+          "size_bytes": 46422
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/native_coupling_smoke_v1/bb6f5cc22152b00b55e07e7a/build/FullTransientCarousel.class",
+          "size_bytes": 46387
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/H62_zero_tight_initialization_v2/build/FullTransientCarousel.class",
+          "size_bytes": 46190
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/H62_zero_tight_initialization_v1/build/FullTransientCarousel.class",
+          "size_bytes": 46050
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/PC40_forced_remesh_v1/build/FullTransientCarousel.class",
+          "size_bytes": 45861
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/GCr15_BH_segregated_v1/build/FullTransientCarousel.class",
+          "size_bytes": 45049
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/H62_zero_motion_segregated_v1/build/FullTransientCarousel.class",
+          "size_bytes": 44946
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/probe_features/FullTransientCarousel.class",
+          "size_bytes": 44943
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/H62_zero_tight_initialization_v2/export_repair/FullTransientExportFix.class",
+          "size_bytes": 44514
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/GCr15_BH_segregated_v1/export_repair/FullTransientExportFix.class",
+          "size_bytes": 44359
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/GCr15_BH_initialized_union_v2/build/FullTransientCarousel.class",
+          "size_bytes": 44191
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/GCr15_BH_initialized_union_v1/build/FullTransientCarousel.class",
+          "size_bytes": 43745
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/GCr15_split_gauge_solve_v1/build/FullTransientCarousel.class",
+          "size_bytes": 41721
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/GCr15_stationary_gauge_union_v1/build/FullTransientCarousel.class",
+          "size_bytes": 41694
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/GCr15_union_solve_v1/build/FullTransientCarousel.class",
+          "size_bytes": 38208
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/GCr15_supported_solve_v3_direct/build/FullTransientCarousel.class",
+          "size_bytes": 36135
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/GCr15_supported_solve_v2_direct/build/FullTransientCarousel.class",
+          "size_bytes": 36083
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/GCr15_supported_solve_v4_direct/build/FullTransientCarousel.class",
+          "size_bytes": 35739
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/GCr15_supported_build_v1/build/FullTransientCarousel.class",
+          "size_bytes": 34660
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/GCr15_supported_solve_v1/build/FullTransientCarousel.class",
+          "size_bytes": 34660
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/__pycache__/comsol_backend.cpython-312.pyc",
+          "size_bytes": 23791
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/__pycache__/compare_transient_runs.cpython-312.pyc",
+          "size_bytes": 14037
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/probe_features/InspectFullFeatures.class",
+          "size_bytes": 4099
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/probe_features/InspectSolvers.class",
+          "size_bytes": 3764
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/__pycache__/run_hysteresis_comparison.cpython-312.pyc",
+          "size_bytes": 3239
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/__pycache__/run_mesh_retention_check.cpython-312.pyc",
+          "size_bytes": 2629
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/probe_features/InspectJA.class",
+          "size_bytes": 2443
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/probe_features/RepairExports.class",
+          "size_bytes": 1457
+        }
+      ],
+      "size_bytes": 2034580,
+      "file_count": 52
+    },
+    "failed_models": {
+      "name": "失败试验的大型 MPH",
+      "condition": "诊断日志、输入、运行状态和试验源码已收入诊断包；删除后不能打开原失败现场，复现需重新求解。",
+      "files": [
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/PC40_JA_retained_mesh_fully_coupled_v10/build/FullTransientCarousel_TransientCarousel.mph",
+          "size_bytes": 71319939
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/PC40_JA_retained_ball_mesh_v10/build/FullTransientCarousel_TransientCarousel.mph",
+          "size_bytes": 68329502
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/PC40_JA_retained_GP0_aux1_v10/build/FullTransientCarousel_TransientCarousel.mph",
+          "size_bytes": 68329098
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/PC40_forced_remesh_v2/build/FullTransientCarousel_TransientCarousel.mph",
+          "size_bytes": 67065001
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/PC40_forced_remesh_v3_consistent/build/FullTransientCarousel_TransientCarousel.mph",
+          "size_bytes": 64117326
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/H62_zero_motion_segregated_v1/build/FullTransientCarousel_TransientCarousel.mph",
+          "size_bytes": 24444866
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/H62_zero_motion_segregated_v1/TransientCarousel_H62_solved.mph",
+          "size_bytes": 24402291
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/GCr15_union_solve_v1/build/FullTransientCarousel_TransientCarousel.mph",
+          "size_bytes": 22971111
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/PC40_JA_retained_mesh_fully_coupled_v10/TransientCarousel_PC40_configured.mph",
+          "size_bytes": 12282771
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/PC40_JA_retained_GP0_aux1_v10/TransientCarousel_PC40_configured.mph",
+          "size_bytes": 12276839
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/PC40_JA_retained_ball_mesh_v10/TransientCarousel_PC40_configured.mph",
+          "size_bytes": 12276800
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/PC40_forced_remesh_v1/build/FullTransientCarousel_TransientCarousel.mph",
+          "size_bytes": 11806609
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/GCr15_BH_initialized_union_v2/TransientCarousel_GCr15_hardened_configured.mph",
+          "size_bytes": 11503546
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/PC40_forced_remesh_v1/TransientCarousel_PC40_configured.mph",
+          "size_bytes": 11499674
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/PC40_JA_remesh_fully_coupled_v10/TransientCarousel_PC40_configured.mph",
+          "size_bytes": 11323688
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/PC40_forced_remesh_v3_consistent/TransientCarousel_PC40_configured.mph",
+          "size_bytes": 11317495
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/PC40_forced_remesh_v2/TransientCarousel_PC40_configured.mph",
+          "size_bytes": 11317389
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/GCr15_supported_solve_v3_direct/build/FullTransientCarousel_TransientCarousel.mph",
+          "size_bytes": 1863528
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/GCr15_supported_solve_v2_direct/build/FullTransientCarousel_TransientCarousel.mph",
+          "size_bytes": 1853541
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/GCr15_split_gauge_solve_v1/TransientCarousel_GCr15_hardened_configured.mph",
+          "size_bytes": 651977
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/GCr15_stationary_gauge_union_v1/TransientCarousel_GCr15_hardened_configured.mph",
+          "size_bytes": 628372
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/GCr15_union_solve_v1/TransientCarousel_GCr15_hardened_configured.mph",
+          "size_bytes": 625521
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/GCr15_supported_solve_v2_direct/TransientCarousel_GCr15_hardened_configured.mph",
+          "size_bytes": 604416
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/GCr15_supported_solve_v4_direct/TransientCarousel_GCr15_hardened_configured.mph",
+          "size_bytes": 604416
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/GCr15_supported_solve_v3_direct/TransientCarousel_GCr15_hardened_configured.mph",
+          "size_bytes": 604413
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/GCr15_supported_solve_v1/TransientCarousel_GCr15_hardened_configured.mph",
+          "size_bytes": 604410
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/H62_zero_motion_segregated_v1/TransientCarousel_H62_configured.mph",
+          "size_bytes": 587056
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/H62_zero_tight_initialization_v1/build/FullTransientCarousel_TransientCarousel.mph",
+          "size_bytes": 574587
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/PC40_JA_retained_order_zero_v10/build/FullTransientCarousel_TransientCarousel.mph",
+          "size_bytes": 510798
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/PC40_JA_retained_low_order_v10/build/FullTransientCarousel_TransientCarousel.mph",
+          "size_bytes": 510610
+        }
+      ],
+      "size_bytes": 526807590,
+      "file_count": 30
+    },
+    "generated_build_models": {
+      "name": "构建/预览/修复产生的中间 MPH",
+      "condition": "不参与正式接口调用；应保留求解结果目录下的正式 *_solved.mph、来源和验证数据。部分文件不是字节重复，删除后需重建。",
+      "files": [
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/GCr15_BH_segregated_v1/export_repair/FullTransientExportFix_reexport.mph",
+          "size_bytes": 34895402
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/GCr15_BH_segregated_v1/build/FullTransientCarousel_TransientCarousel.mph",
+          "size_bytes": 34887353
+        },
+        {
+          "path": "时变磁场模型/通用瞬态耦合/results/probe_features/RepairExports_repair.mph",
+          "size_bytes": 34851363
+        }
+      ],
+      "size_bytes": 104634118,
+      "file_count": 3
+    }
+  },
+  "exact_duplicate_mph_groups": [],
+  "category_total_bytes": 633476288,
+  "excluded_live_tree": "静磁力地图/全状态补算_20261029 and its active build/data/logs",
+  "do_not_delete": [
+    "Current source files, material input workbooks and requirements.",
+    "Successful *_solved.mph that may be needed for field inspection or history.",
+    "Static-map training/holdout samples and active campaign state.",
+    "Committed dynamics history; latest trial memory is not necessarily committed."
+  ]
+}

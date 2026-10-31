@@ -1,0 +1,8 @@
+{
+  "method": "actual extracted-source software tests in fresh temporary directory",
+  "returncode": 0,
+  "stdout": "",
+  "stderr": "C:\\Users\\yanya\\AppData\\Local\\Temp\\magnetic_handoff_verify_nwj38z8y\\动力学电磁接口\\test_coupling_driver.py:58: SyntaxWarning: invalid escape sequence '\\+'\n  with self.assertRaisesRegex(ValueError, \"state.t_s \\+ dt_s\"):\n----------------------------------------------------------------------\nRan 26 tests in 0.134s\n\nOK\n",
+  "native_COMSOL_started": false,
+  "numerical_certification": false
+}
