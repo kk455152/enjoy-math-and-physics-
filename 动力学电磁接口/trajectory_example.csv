@@ -1,0 +1,6 @@
+t_s,x_mm,y_mm,vx_m_s,vy_m_s,Omega_rot_rad_s,omega_ball_x_rad_s,omega_ball_y_rad_s,omega_ball_z_rad_s
+0,0,85,0,0,10,0,0,0
+0.0005,0,85,0,0,10,0,0,0
+0.001,0,85,0,0,10,0,0,0
+0.0015,0,85,0,0,10,0,0,0
+0.002,0,85,0,0,10,0,0,0

@@ -1,0 +1,16 @@
+# Python caches and local test artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local build and temporary output directories
+.build/
+tmp/
+*.tmp
+*.bak
+
+# COMSOL generated lock files
+*.mph.lock
+~$*
