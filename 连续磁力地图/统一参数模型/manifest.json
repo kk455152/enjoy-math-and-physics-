@@ -1,0 +1,190 @@
+{
+  "policy": "shared_4d_annulus_periodic_rbf_independent_holdout_v2",
+  "template_sha256": "71C43F1310586A9E713998362B43E8878A0AB1494FCDEAE8D761678942AC7193",
+  "updated_utc": "2026-10-31T08:45:17.792402+00:00",
+  "groups": [
+    {
+      "group_id": "H62_N4_R41",
+      "material": "H62",
+      "N": 4,
+      "R_mm": 41.0,
+      "file": "H62_N4_R41.json",
+      "status": "search",
+      "force_ready": true,
+      "centerline_ready": false,
+      "continuous_query_ready": false,
+      "reused_samples": 156,
+      "training_points": 144,
+      "validation": {
+        "complete": false,
+        "available": 12,
+        "expected": 24
+      },
+      "pending_points": 12
+    },
+    {
+      "group_id": "H62_N10_R96",
+      "material": "H62",
+      "N": 10,
+      "R_mm": 96.0,
+      "file": "H62_N10_R96.json",
+      "status": "search",
+      "force_ready": true,
+      "centerline_ready": false,
+      "continuous_query_ready": false,
+      "reused_samples": 60,
+      "training_points": 48,
+      "validation": {
+        "complete": false,
+        "available": 12,
+        "expected": 24
+      },
+      "pending_points": 12
+    },
+    {
+      "group_id": "PC40_N4_R41",
+      "material": "PC40",
+      "N": 4,
+      "R_mm": 41.0,
+      "file": "PC40_N4_R41.json",
+      "status": "search",
+      "force_ready": false,
+      "centerline_ready": false,
+      "continuous_query_ready": false,
+      "reused_samples": 134,
+      "training_points": 122,
+      "validation": {
+        "complete": false,
+        "available": 12,
+        "expected": 24
+      },
+      "pending_points": 12
+    },
+    {
+      "group_id": "PC40_N10_R96",
+      "material": "PC40",
+      "N": 10,
+      "R_mm": 96.0,
+      "file": "PC40_N10_R96.json",
+      "status": "search",
+      "force_ready": false,
+      "centerline_ready": false,
+      "continuous_query_ready": false,
+      "reused_samples": 60,
+      "training_points": 48,
+      "validation": {
+        "complete": false,
+        "available": 12,
+        "expected": 24
+      },
+      "pending_points": 12
+    },
+    {
+      "group_id": "GCr15_hardened_N4_R41",
+      "material": "GCr15_hardened",
+      "N": 4,
+      "R_mm": 41.0,
+      "file": "GCr15_hardened_N4_R41.json",
+      "status": "search",
+      "force_ready": false,
+      "centerline_ready": false,
+      "continuous_query_ready": false,
+      "reused_samples": 128,
+      "training_points": 109,
+      "validation": {
+        "complete": false,
+        "available": 19,
+        "expected": 24
+      },
+      "pending_points": 5
+    },
+    {
+      "group_id": "GCr15_hardened_N10_R96",
+      "material": "GCr15_hardened",
+      "N": 10,
+      "R_mm": 96.0,
+      "file": "GCr15_hardened_N10_R96.json",
+      "status": "search",
+      "force_ready": false,
+      "centerline_ready": false,
+      "continuous_query_ready": false,
+      "reused_samples": 54,
+      "training_points": 36,
+      "validation": {
+        "complete": false,
+        "available": 18,
+        "expected": 24
+      },
+      "pending_points": 6
+    },
+    {
+      "group_id": "GCr15_annealed_N4_R41",
+      "material": "GCr15_annealed",
+      "N": 4,
+      "R_mm": 41.0,
+      "file": "GCr15_annealed_N4_R41.json",
+      "status": "search",
+      "force_ready": false,
+      "centerline_ready": false,
+      "continuous_query_ready": false,
+      "reused_samples": 120,
+      "training_points": 103,
+      "validation": {
+        "complete": false,
+        "available": 17,
+        "expected": 24
+      },
+      "pending_points": 7
+    },
+    {
+      "group_id": "GCr15_annealed_N10_R96",
+      "material": "GCr15_annealed",
+      "N": 10,
+      "R_mm": 96.0,
+      "file": "GCr15_annealed_N10_R96.json",
+      "status": "search",
+      "force_ready": false,
+      "centerline_ready": false,
+      "continuous_query_ready": false,
+      "reused_samples": 52,
+      "training_points": 36,
+      "validation": {
+        "complete": false,
+        "available": 16,
+        "expected": 24
+      },
+      "pending_points": 8
+    }
+  ],
+  "group_count": 8,
+  "force_ready_groups": 2,
+  "continuous_query_ready_groups": 0,
+  "trusted_COMSOL_points": 764,
+  "planned_missing_points": 74,
+  "axes": [
+    "rho_minus_R_mm",
+    "phase_N_delta_over_pi",
+    "g_mm",
+    "D_mm"
+  ],
+  "bounds": [
+    [
+      -15.0,
+      15.0
+    ],
+    [
+      -1.0,
+      1.0
+    ],
+    [
+      3.0,
+      6.0
+    ],
+    [
+      3.0,
+      10.0
+    ]
+  ],
+  "position_domain": "R-15 <= rho <= R+15 mm; full 2*pi orbit",
+  "scope": "Annular reversible static F and 11-level centerline B/H; no transient J or magnetic history"
+}
